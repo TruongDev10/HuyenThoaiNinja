@@ -5,7 +5,7 @@
 </h2>
 
 <h2 align="center">
-   💰 ỨNG DỤNG PHÂN TÍCH DỮ LIỆU & AI TRONG QUẢN LÝ CHI TIÊU & TIẾT KIỆM CHO SINH VIÊN
+   GAME HUYỀN THOẠI NINJA 
 </h2>
 
 <div align="center">
