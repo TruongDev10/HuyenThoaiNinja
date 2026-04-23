@@ -1,12 +1,22 @@
-(venv) PS D:\HuyenThoaiNinja> git push -u origin main
-info: please complete authentication in your browser...
-Enumerating objects: 18, done.
-Counting objects: 100% (18/18), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (16/16), done.
-Writing objects: 100% (18/18), 8.12 MiB | 2.32 MiB/s, done.
-Total 18 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/TruongDev10/HuyenThoaiNinja.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-(venv) PS D:\HuyenThoaiNinja> 
+<h2 align="center">
+    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    🎓 Faculty of Information Technology (DaiNam University)
+    </a>
+</h2>
+
+<h2 align="center">
+   💰 ỨNG DỤNG PHÂN TÍCH DỮ LIỆU & AI TRONG QUẢN LÝ CHI TIÊU & TIẾT KIỆM CHO SINH VIÊN
+</h2>
+
+<div align="center">
+    <p align="center">
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/fitdnu_logo.png" alt="FIT Logo" width="180"/>
+        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+    </p>
+
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+
+</div>
