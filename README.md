@@ -92,22 +92,34 @@
 ## 🚀 3. Hình ảnh các chức năng chính
 
 <p align="center">
-  <img src="assets/images/player.png" width="600"/>
+  <img src="assets/images/player.png" width="100"/>
 </p>
 <p align="center"><em>Nhân vật ninja</em></p>
 
 <p align="center">
-  <img src="assets/images/enemy.png" width="600"/>
+  <img src="assets/images/enemy.png" width="100"/>
 </p>
 <p align="center"><em>Kẻ địch</em></p>
 
 <p align="center">
-  <img src="assets/images/shuriken.png" width="600"/>
+  <img src="assets/images/shuriken.png" width="100"/>
 </p>
-<p align="center"><em>Kỹ năng ném shuriken</em></p>
 
-👉 (Bạn nên chụp thêm ảnh gameplay thật để thay vào đây)
+<p align="center">
+  <img src="./assets/images/1.jpg" width="600"/>
+</p>
 
+<p align="center">
+  <img src="./assets/images/2.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./assets/images/3.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="./assets/images/4.jpg" width="600"/>
+</p>
 ---
 ## 📂 4. Các bước cài đặt 
 
