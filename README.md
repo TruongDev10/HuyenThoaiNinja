@@ -109,24 +109,72 @@
 👉 (Bạn nên chụp thêm ảnh gameplay thật để thay vào đây)
 
 ---
+## 📂 4. Các bước cài đặt 
 
-## 📂 4. Các bước cài đặt
+- Bước 1: Chuẩn bị môi trường
 
-Bước 1: Clone project
-```bash
-git clone https://github.com/TruongDev10/HuyenThoaiNinja.git
-cd HuyenThoaiNinja
+  - Trước khi chạy game, cần cài đặt các công cụ sau:
 
-Bước 2: Tạo môi trường ảo
-```bash
-python -m venv venv
-venv\Scripts\activate
+    - Python 3.12 trở lên
 
-Bước 3: Cài thư viện
-```bash
-pip install -r requirements.txt
+    - pip (trình quản lý thư viện Python)
 
-Bước 4: Chạy game
-```bash
-python main.py
- 
+- 👉 Kiểm tra Python đã cài chưa:
+
+    - Chạy lệnh sau:
+
+          python --version
+
+- Bước 2: Tải mã nguồn
+
+    - Clone project từ GitHub:
+
+          git clone https://github.com/TruongDev10/HuyenThoaiNinja.git
+
+    - Hoặc tải file .zip và giải nén.
+
+- Bước 3: Di chuyển vào thư mục project
+
+    - Chạy lệnh sau:
+
+          cd HuyenThoaiNinja
+
+- Bước 4: Tạo môi trường ảo (khuyến khích)
+
+    - 👉 Giúp tránh lỗi xung đột thư viện
+
+          python -m venv venv
+
+- Kích hoạt môi trường:
+
+  - Windows:
+
+          venv\Scripts\activate
+    
+  - Mac/Linux:
+    
+          source venv/bin/activate
+
+- Bước 5: Cài đặt thư viện
+
+  - Cài các thư viện cần thiết:
+
+          pip install pygame opencv-python mediapipe numpy
+
+  - 👉 Nếu project có file requirements.txt:
+
+          pip install -r requirements.txt
+
+- Bước 6: Chạy game
+
+    - Mở terminal và chạy lệnh sau: 
+
+          python main.py
+
+
+## 🧑‍💻 5. Người thực hiện
+
+- **Bùi Văn Trường**
+- GitHub: https://github.com/TruongDev10  
+
+© 2026 - Faculty of Information Technology, DaiNam University
