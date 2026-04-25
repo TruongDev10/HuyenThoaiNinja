@@ -20,7 +20,6 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 </div>
 
----
 
 ## 📖 1. Giới thiệu game
 
@@ -33,7 +32,6 @@
   - Né tránh nguy hiểm
   - Sống sót và đạt điểm cao nhất
 
----
 
 ### 🎮 Gameplay
 
@@ -43,7 +41,6 @@
 - 👾 Đối đầu với boss  
 - 🔊 Hiệu ứng âm thanh sống động  
 
----
 
 ### 🔥 Đặc điểm nổi bật
 
@@ -52,7 +49,6 @@
 - Có hệ thống enemy và boss  
 - Âm thanh đa dạng (attack, hit, boss theme)  
 
----
 
 ### 🖥️ Cấu trúc hệ thống
 
@@ -87,7 +83,6 @@
 - Hệ điều hành:
   - Windows 10/11
 
----
 
 ## 🚀 3. Hình ảnh các chức năng chính
 
